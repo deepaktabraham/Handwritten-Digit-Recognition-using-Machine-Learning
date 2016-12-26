@@ -5,7 +5,7 @@ Packages required for running the program are:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;1.&nbsp; opencv2<br />
 &nbsp;&nbsp;&nbsp;&nbsp;2.&nbsp; numpy<br />
 &nbsp;&nbsp;&nbsp;&nbsp;3.&nbsp; Scikit-Image<br />
-&nbsp;&nbsp;&nbsp;&nbsp;3.&nbsp; Scikit-Learn<br />
+&nbsp;&nbsp;&nbsp;&nbsp;4.&nbsp; Scikit-Learn<br />
 
 When executing for the very first time using a classifier, training with the MNIST database is performed and the trained data is dumped in to a file in the current directory. This is done so that, subsequent tests with the same classifier do not have to undergo the same process of learning again, which might be time consuming.
 
