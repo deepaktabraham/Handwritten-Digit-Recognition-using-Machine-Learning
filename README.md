@@ -9,8 +9,9 @@ Packages required for running the program are:<br />
 
 When executing for the very first time using a classifier, training with the MNIST database is performed and the trained data is dumped in to a file in the current directory. This is done so that, subsequent tests with the same classifier do not have to undergo the same process of learning again, which might be time consuming.
 
-Sample handwritten digit input images are provided in the 'images' directory.
+Sample handwritten digit input images are provided in the 'images' directory.<br/><br />
 
+###Steps to run the HDR system
 usage: ***`python hdr.py <Classifier Index> <Test Image>`***<br />
 Use the classifier index, as given below:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;1 - Decision Tree Learning<br />
