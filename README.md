@@ -17,7 +17,7 @@ Use the classifier index, as given below:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;1 - Decision Tree Learning<br />
 &nbsp;&nbsp;&nbsp;&nbsp;2 - K Nearest Neighbors (k-NN)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;3 - Linear Discriminant Analysis (LDA)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;4 – Naïve Bayes Classifier<br />
+&nbsp;&nbsp;&nbsp;&nbsp;4 - Naïve Bayes Classifier<br />
 &nbsp;&nbsp;&nbsp;&nbsp;5 - Random Forests Classifier<br />
 &nbsp;&nbsp;&nbsp;&nbsp;6 - Support Vector Machine (SVM)<br />
 Example: python hdr.py 5 test.jpg<br />
