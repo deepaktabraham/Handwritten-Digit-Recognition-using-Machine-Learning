@@ -12,7 +12,7 @@ When executing for the very first time using a classifier, training with the MNI
 Sample handwritten digit input images are provided in the 'images' directory.<br/><br />
 
 ### Steps to run the HDR system
-usage: *** `python hdr.py <Classifier Index> <Test Image>` *** <br />
+usage: **`python hdr.py <Classifier Index> <Test Image>`** <br />
 Use the classifier index, as given below:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;1 - Decision Tree Learning<br />
 &nbsp;&nbsp;&nbsp;&nbsp;2 - K Nearest Neighbors (k-NN)<br />
