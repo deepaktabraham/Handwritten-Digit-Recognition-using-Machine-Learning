@@ -1,4 +1,4 @@
-#Handwritten Digit Recognition using Machine Learning
+# Handwritten Digit Recognition using Machine Learning
 The source file hdr.py can be executed to recognize handwritten digits on any test image provided as input, using different classifiers.<br />
 
 Packages required for running the program are:<br />
@@ -11,7 +11,7 @@ When executing for the very first time using a classifier, training with the MNI
 
 Sample handwritten digit input images are provided in the 'images' directory.<br/><br />
 
-###Steps to run the HDR system
+### Steps to run the HDR system
 usage: ***`python hdr.py <Classifier Index> <Test Image>`***<br />
 Use the classifier index, as given below:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;1 - Decision Tree Learning<br />
